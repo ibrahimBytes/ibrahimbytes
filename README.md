@@ -40,7 +40,7 @@ A polished, fast, and slightly experimental developer portfolio designed like a 
 
 - Handled production concerns: asset optimization, CSS ordering, build stability  
 
-**[View Repository →](https://github.com/ibrahimBytes/ibrahim-portfolio)** *(replace with actual link)*
+**[View Repository →](https://github.com/ibrahimBytes/ibrahim-portfolio)** 
 
 **2. Self-Hosted URL Shortener Platform**  
 
@@ -58,7 +58,7 @@ A complete, production-ready, self-hosted URL shortening service focused on simp
 
 - Production-ready security: rate limiting, CSRF protection, secure redirects, etc.  
 
-**[View Repository →](https://github.com/ibrahimBytes/ibrahim-url-shortner)** *(replace with actual link)*
+**[View Repository →](https://github.com/ibrahimBytes/ibrahim-url-shortner)** 
 
 ---
 
