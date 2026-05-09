@@ -9,7 +9,6 @@ This GitHub profile is my **public engineering log**: a transparent record of ar
 ---
 
 ### My Philosophy
-
 > "I don’t collect tech stacks — I collect mistakes, fixes, and lessons."
 
 I chase **fundamentals**, not trends:
@@ -21,18 +20,9 @@ I chase **fundamentals**, not trends:
 
 I avoid chasing frameworks because **great engineering is about understanding constraints**, not hiding them. Simplicity, correctness, and performance drive every decision.
 
-Inspired by the great builders:
-- **Linus Torvalds** — ruthless focus on technical excellence and open source
-- **Steve Jobs** — obsession with elegant, human-centered systems
-- **Elon Musk** — first-principles thinking and ambitious execution
-- **Bill Gates** — scaling software to empower millions
-- **Jeff Bezos, Larry Page & Sergey Brin** — long-term vision and customer/system impact
-- **Mark Zuckerberg** — building infrastructure that connects and scales
-
 ---
 
 ### What I'm Working On
-
 - **System-oriented tools & infrastructure** using Cloudflare, GitHub, and modern primitives
 - Deep dives into performance, reliability, and architectural trade-offs
 - Open source where **learning outweighs fame**
@@ -43,12 +33,20 @@ Inspired by the great builders:
 
 ### Tech Foundations
 
-**Core Languages & Systems:**
+**Core Systems & Languages:**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-**Modern & Full-Stack:**
+**MERN Stack (Full-Stack JavaScript):**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Modern & Full-Stack:** 
+![JavaScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Infrastructure & Tools:**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -57,7 +55,6 @@ Inspired by the great builders:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**And more** — see full stack below. I use the right tool for the job, never for the resume.
 
 ---
 
